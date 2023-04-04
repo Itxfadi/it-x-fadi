@@ -388,16 +388,14 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\038[1;34m       
-db    db d88888b d88888b d8888b.  .d88b.  
-88    88 88'     88'     88  `8D .8P  Y8. 
-Y8    8P 88ooooo 88ooooo 88oobY' 88    88 
-`8b  d8' 88~~~~~ 88~~~~~ 88`8b   88    88 
- `8bd8'  88.     88.     88 `88. `8b  d8' 
-   YP    Y88888P Y88888P 88   YD  `Y88P' 
+888888    db    8888b.  88 
+88__     dPYb    8I  Yb 88 
+88""    dP__Yb   8I  dY 88 
+88     dP""""Yb 8888Y"  88 
 \038
 __________________it'x fadi______________________
   
-  Auther   :  DR FADI
+  Auther   : FADI
  
   Github   :  FADIYAN
 
